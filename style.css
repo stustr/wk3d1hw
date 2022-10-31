@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+header {
+    background-color: dodgerblue; margin:0; color: white;
+    padding: 20px;
+}
+
+h1 {
+    padding: 0 10px;
+    margin: 0;
+}
+
+nav {
+    padding-bottom: 10px;
+}
+
+nav>ul>li>a {
+    color: white;
+}
+
+#stuff-after-main {
+    padding: 0px 100px;
+}
